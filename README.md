@@ -1,0 +1,1 @@
+This is Connor's first git project! Hello future historians and students!
